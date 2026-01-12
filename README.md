@@ -29,9 +29,9 @@ Columns:
 
 ## Files Included
 
-sales_analysis.sql – table creation, data cleaning queries, analytical queries, and business metrics  
-sales_data.csv – raw dataset  
-data_profiling_report.html – generated YData Profiling report  
+- sales_analysis.sql – table creation, data cleaning queries, analytical queries, and business metrics
+- sales_data.csv – raw dataset
+- data_profiling_report.html – generated YData Profiling report  
 
 ## Analysis Performed (SQL)
 
@@ -120,3 +120,4 @@ Gmail: thakareyadnyesh@gmail.com
 
 
 This project demonstrates a practical workflow for analyzing retail transaction data using SQL and validating dataset quality using Python-based automated profiling. It reflects real-world tasks commonly performed in entry-level data analyst and reporting roles, including data cleaning, trend analysis, customer segmentation, and business metric evaluation.
+
