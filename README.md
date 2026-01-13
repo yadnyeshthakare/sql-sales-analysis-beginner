@@ -1,5 +1,4 @@
-# sql-sales-analysis-beginner
-
+# retail-sales-analysis-sql
 This project analyzes retail transaction data using SQL for data exploration, business analysis, and reporting, along with basic data quality profiling using Python.
 
 It demonstrates how raw transactional data can be validated, explored, and transformed into business insights using common data analyst workflows.
@@ -120,4 +119,5 @@ Gmail: thakareyadnyesh@gmail.com
 
 
 This project demonstrates a practical workflow for analyzing retail transaction data using SQL and validating dataset quality using Python-based automated profiling. It reflects real-world tasks commonly performed in entry-level data analyst and reporting roles, including data cleaning, trend analysis, customer segmentation, and business metric evaluation.
+
 
